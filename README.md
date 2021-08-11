@@ -1,4 +1,4 @@
-# Capstone-1-1
+# Finance Calculator
 
 ###### The project
 
