@@ -6,6 +6,8 @@ This project is a python based finance calculator that allows a user to calculat
 * investment returns with simple or compounding interest at user inputted figures, time periods and interest rates as well as
 * monthly bond payments needed to pay off a bond at user inputted figures, time periods and interest rates
 
+This program displays an understanding of using variables and control structures in python.
+
 ###### Usefulness
 
 The finance calcualtor is useful in the sense that users are able to choose a financial calculation type, specify their own parameters such as amounts invested/borrowed, interest rates and time periods. The program is also instructional, simple and easy to use.
